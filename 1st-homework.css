@@ -1,0 +1,46 @@
+body {
+	margin: 0;
+	font-family: sans-serif;
+}
+
+header {
+	background-color:grey;
+	height: 421px;
+}
+
+.title {
+	text-align: center;
+	padding: 80px 0 40px
+}
+
+.Links {
+	text-align: center;
+}
+
+h1 {
+	font-size: 60px;
+	color: white;
+	margin: auto;
+	padding: 0 0 10px
+	}
+
+	p {
+		font size: 30px;
+		color: white;
+		margin: auto;
+	}
+
+	.Request {
+		color: white;
+		background-color: black;
+		font-size: 10px;
+		padding: 10px;
+	}
+
+	.Apply {
+		color: white;
+		background-color: red;
+		font-size: 10px;
+		padding: 10px;
+	}
+
