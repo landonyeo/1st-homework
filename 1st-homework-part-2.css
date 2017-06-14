@@ -1,0 +1,47 @@
+body {
+	background-color: gold;
+	font-family: Impact;
+}
+
+h1 {
+	font-size: 38px;
+	;
+	color: black;
+}
+
+h2 {
+	font-family: "Circular",Helvetica,sans-serif;
+	font-size: 20px;
+}
+
+a {
+	color: black;
+	font-family: "Circular",Helvetica,sans-serif;
+	text-decoration: none;
+}
+
+a:hover{
+	color: white
+}
+
+.hrblack {
+	display: block;
+	height: 1px;
+	border: 0;
+	border-top: 1px solid black;
+	margin: 1em 0;
+	padding: 0;
+}
+
+hr {
+	display: block;
+	height: 1px;
+	border: 0;
+	border-top: 1px solid #f9c120;
+	margin: 1em 0;
+	padding: 0;
+}
+
+img {
+	float: right;
+}

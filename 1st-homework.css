@@ -30,17 +30,21 @@ h1 {
 		margin: auto;
 	}
 
+	a {
+		text-decoration: none;
+	}
+
 	.Request {
 		color: white;
 		background-color: black;
-		font-size: 10px;
+		font-size: 12px;
 		padding: 10px;
 	}
 
 	.Apply {
 		color: white;
 		background-color: red;
-		font-size: 10px;
+		font-size: 12px;
 		padding: 10px;
 	}
 
